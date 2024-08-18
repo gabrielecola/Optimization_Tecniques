@@ -41,10 +41,3 @@ This notebook focuses on building and training neural networks for the task of d
 - **Performance Metrics:** Metrics such as accuracy, precision, and recall are computed to evaluate the effectiveness of the neural network in recognizing handwritten digits.
 
 
-## How to Run the Notebooks
-
-To run these notebooks locally, please follow the instructions below:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/gabrielecola/Optimization_Tecniques.git
