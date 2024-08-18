@@ -14,7 +14,6 @@ This notebook is dedicated to exploring and comparing first-order and second-ord
 
 - **Test Function:** A test function is used to compare the convergence properties, computational efficiency, and accuracy of the first-order and second-order methods.
 
-This notebook is a valuable resource for understanding the fundamental differences between these optimization approaches and their practical implications.
 
 ### 2. **Comparison of Deterministic vs. Stochastic Methods & Unregularized vs. Regularized Formulations in a Linear Regression Problem**
 
@@ -28,7 +27,6 @@ In this notebook, we delve into the field of linear regression, focusing on the 
   - **Unregularized:** Standard linear regression without any penalties on the model parameters.
   - **Regularized:** Techniques like Ridge Regression (L2 regularization) and Lasso (L1 regularization) are discussed, which help in mitigating overfitting by adding penalties to the model complexity.
 
-The notebook provides a comprehensive comparison of these methods, highlighting their strengths, weaknesses, and use cases.
 
 ### 3. **Digit Recognition via Neural Networks**
 
@@ -42,7 +40,6 @@ This notebook focuses on building and training neural networks for the task of d
 
 - **Performance Metrics:** Metrics such as accuracy, precision, and recall are computed to evaluate the effectiveness of the neural network in recognizing handwritten digits.
 
-This notebook serves as an introductory guide to neural networks, showcasing their power and versatility in solving classification problems.
 
 ## How to Run the Notebooks
 
