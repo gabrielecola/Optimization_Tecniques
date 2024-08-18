@@ -1,6 +1,6 @@
 # Optimization Tecnicques
 
-Welcome to this repository! This project contains a series of Jupyter notebooks that explore various concepts in optimization and machine learning. Each notebook covers a different topic, ranging from optimization methods to neural network-based digit recognition. Below is an overview of the contents of each notebook:
+This project contains a series of Jupyter notebooks that explore various concepts in optimization. Each notebook covers a different topic, ranging from optimization methods to neural network-based digit recognition. Below is an overview of the contents of each notebook:
 
 ## Notebooks Overview
 
