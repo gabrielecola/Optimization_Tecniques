@@ -47,4 +47,4 @@ To run these notebooks locally, please follow the instructions below:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/gabrielecola/Optimization_Tecniques.git
